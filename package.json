@@ -10,7 +10,7 @@
     "jszip": "^3.2.0",
     "jszip-utils": "0.0.2",
     "jzip": "^1.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.23",
     "react": "^16.8.1",
     "react-confirm-alert": "^2.2.0",
     "react-dom": "^16.8.1",
